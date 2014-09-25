@@ -38,4 +38,4 @@ Got stuck on fragment view problem and wasted 4 hours, would have finished more 
 
 **_Walkthrough of all user stories:_**
 
-![screenshot](https://raw.githubusercontent.com/yangyzheng/GridImageSearch/master/Readme/GridImageSearch1.gif)
+![screenshot](https://raw.githubusercontent.com/yangyzheng/GridImageSearch/master/Readme/GridImageSearch3.gif)
